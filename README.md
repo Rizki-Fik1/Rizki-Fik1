@@ -15,7 +15,6 @@ I am a passionate web and mobile app developer from Indonesia who loves building
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizki-Fik1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-
 ### 🚀 Featured Projects
 - [Kerent App](https://github.com/Rizki-Fik1/Kerent_App_New) - Kerent App Mobile Project
 - [Smart City](https://github.com/Rizki-Fik1/smart-city) - Urban Development Project
@@ -24,6 +23,7 @@ I am a passionate web and mobile app developer from Indonesia who loves building
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
@@ -32,6 +32,7 @@ I am a passionate web and mobile app developer from Indonesia who loves building
   
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fikoaja9@gmail.com)](mailto:fikoaja9@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat&logo=Github&logoColor=white&link=https://github.com/Rizki-Fik1)](https://github.com/Rizki-Fik1)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/pikaksonice/#)](https://www.instagram.com/pikaksonice/#)
   
 </div>
 
@@ -43,4 +44,3 @@ I am a passionate web and mobile app developer from Indonesia who loves building
 <div align="center">
   <i>Keep Smart and Keep Learning 🚀</i>
 </div>
-](https://www.instagram.com/pikaksonice/#)
