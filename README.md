@@ -1,16 +1,73 @@
-## Hi there 👋
+<h2 align="center">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h2>
 
-<!--
-**Rizki-Fik1/Rizki-Fik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=440&lines=Hi+there!+I'm+Rizki;Frontend+Developer;Mobile+App+Enthusiast" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+### 👋 About Me
+I'm a passionate web and mobile app developer from Indonesia who loves building user-friendly digital experiences. When I'm not coding, you can find me exploring new technologies or playing with my cat 🐱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+```javascript
+const rizki = {
+    code: ["JavaScript", "HTML", "CSS", "Dart"],
+    technologies: {
+        frontEnd: {
+            js: ["React.js"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        mobileApp: ["React Native"],
+        backend: ["Firebase"],
+        databases: ["MongoDB", "MySQL"],
+    },
+    currentFocus: "Building robust and scalable web applications"
+};
+```
+
+### 🌱 Currently Learning
+- Advanced JavaScript Concepts
+- React.js Best Practices
+- Firebase Authentication & Real-time Database
+- Mobile App Development
+- UI/UX Design Principles
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rizki-Fik1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizki-Fik1&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+### 🎯 Goals for 2024
+- [ ] Master React.js and its ecosystem
+- [ ] Build and launch 3 full-stack web applications
+- [ ] Contribute to open-source projects
+- [ ] Improve Firebase implementation skills
+- [ ] Learn new frontend frameworks
+
+### 🚀 Featured Projects
+- [Web Undangan](https://github.com/Rizki-Fik1/undangan) - Digital Wedding Invitation Platform
+- [Smart City](https://github.com/Rizki-Fik1/smart-city) - Urban Development Project
+- [React Learning Projects](https://github.com/Rizki-Fik1/belajar-reactvite) - Collection of React.js Projects
+
+### 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+
+### 📫 Let's Connect!
+<div align="center">
+  
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat&logo=Github&logoColor=white&link=https://github.com/Rizki-Fik1)](https://github.com/Rizki-Fik1)
+  
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rizki-Fik1&style=flat-square&color=blue" alt="Profile views counter"/>
+</div>
+
+---
+<div align="center">
+  <i>Happy coding! 🚀</i>
+</div>
