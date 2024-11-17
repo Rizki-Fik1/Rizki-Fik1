@@ -1,35 +1,13 @@
 <h2 align="center">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h2>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=440&lines=Hi+there!+I'm+Rizki;Frontend+Developer;Mobile+App+Enthusiast" alt="Typing SVG" />
-</div>
-
 ### 👋 About Me
 I'm a passionate web and mobile app developer from Indonesia who loves building user-friendly digital experiences. When I'm not coding, you can find me exploring new technologies or playing with my cat 🐱
-
-### 🛠 Tech Stack
-```javascript
-const rizki = {
-    code: ["JavaScript", "HTML", "CSS", "Dart"],
-    technologies: {
-        frontEnd: {
-            js: ["React.js"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        mobileApp: ["React Native"],
-        backend: ["Firebase"],
-        databases: ["MongoDB", "MySQL"],
-    },
-    currentFocus: "Building robust and scalable web applications"
-};
-```
 
 ### 🌱 Currently Learning
 - Advanced JavaScript Concepts
 - React.js Best Practices
 - Firebase Authentication & Real-time Database
 - Mobile App Development
-- UI/UX Design Principles
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -37,15 +15,8 @@ const rizki = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizki-Fik1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### 🎯 Goals for 2024
-- [ ] Master React.js and its ecosystem
-- [ ] Build and launch 3 full-stack web applications
-- [ ] Contribute to open-source projects
-- [ ] Improve Firebase implementation skills
-- [ ] Learn new frontend frameworks
 
 ### 🚀 Featured Projects
-- [Web Undangan](https://github.com/Rizki-Fik1/undangan) - Digital Wedding Invitation Platform
 - [Smart City](https://github.com/Rizki-Fik1/smart-city) - Urban Development Project
 - [React Learning Projects](https://github.com/Rizki-Fik1/belajar-reactvite) - Collection of React.js Projects
 
