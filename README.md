@@ -1,7 +1,7 @@
 <h2 align="center">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h2>
 
 ### 👋 About Me
-I'm a passionate web and mobile app developer from Indonesia who loves building user-friendly digital experiences. When I'm not coding, you can find me exploring new technologies or playing with my cat 🐱
+I am a passionate web and mobile app developer from Indonesia who loves building user-friendly digital experiences. I am currently studying at SMKN 8 SEMARANG. I am currently learning about React.js and Firebase Authentication.
 
 ### 🌱 Currently Learning
 - Advanced JavaScript Concepts
@@ -17,8 +17,9 @@ I'm a passionate web and mobile app developer from Indonesia who loves building 
 
 
 ### 🚀 Featured Projects
+- [Kerent App](https://github.com/Rizki-Fik1/Kerent_App_New) - Kerent App Mobile Project
 - [Smart City](https://github.com/Rizki-Fik1/smart-city) - Urban Development Project
-- [React Learning Projects](https://github.com/Rizki-Fik1/belajar-reactvite) - Collection of React.js Projects
+- [Webversal](https://github.com/Rizki-Fik1/Webversal) - Webversal Project
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -29,7 +30,7 @@ I'm a passionate web and mobile app developer from Indonesia who loves building 
 ### 📫 Let's Connect!
 <div align="center">
   
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fikoaja9@gmail.com)](mailto:fikoaja9@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat&logo=Github&logoColor=white&link=https://github.com/Rizki-Fik1)](https://github.com/Rizki-Fik1)
   
 </div>
@@ -40,5 +41,5 @@ I'm a passionate web and mobile app developer from Indonesia who loves building 
 
 ---
 <div align="center">
-  <i>Happy coding! 🚀</i>
+  <i>Keep Smart and Keep Learning 🚀</i>
 </div>
