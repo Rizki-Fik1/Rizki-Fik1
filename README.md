@@ -1,4 +1,4 @@
-Projectctopmentopment-city-citylign="center">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h2>
+httpstpstytyojectctopmentopment-city-citylign="center">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h2>
 
 ### 👋 About Me
 I am a passionate web and mobile app developer from Indonesia who loves building user-friendly digital experiences. I am currently studying at SMKN 8 SEMARANG. I am currently learning about React.js and Firebase Authentication.
@@ -17,7 +17,7 @@ I am a passionate web and mobile app developer from Indonesia who loves building
 
 ### 🚀 Featured Projects
 - [Kerent App](https://github.com/Rizki-Fik1/Kerent_App_New) - Kerent App Mobile Project
-- [Smart City](https://github.com/Rizki-Fik1/web-umkm)-Website for Umkm "Ayam Geprek Bu Siti"
+- [Web Umkm](https://github.com/Rizki-Fik1-Websitem)-Website for Umkm "Ayam Geprek Bu Siti"
 - [Webversal](https://github.com/Rizki-Fik1/Webversal) - Webversal Project
 
 ### 🔧 Technologies & Tools
